@@ -1,0 +1,1 @@
+Azure dnia 04.12.2021 miał jakieś problemy z instalowaniem npm'a
